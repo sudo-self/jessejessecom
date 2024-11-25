@@ -33,7 +33,7 @@ export default function RootLayout({ children }) {
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://jessejesse.com" />
         <meta property="og:title" content="JesseJesse.com" />
-        <meta property="og:site_name" content="JesseJesse.com">
+        <meta property="og:site_name" content="JesseJesse.com" />
         <meta
           property="og:description"
           content="A Three JS Rendering of the spot with included playlist"
